@@ -1,5 +1,7 @@
 # COMP0035 2025-26 Weekly practical activities
 
+Sree: Adding a line to test
+
 This repository contains the activities for the COMP0035 module for the academic year 2025-26.
 
 ## Instructions for using this repository
