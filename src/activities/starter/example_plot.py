@@ -11,7 +11,9 @@ if __name__ == '__main__':
 
     # Using pandas.plot directly creates the figure, axes and allows for some customisation
     # matplotlib examples typically split this into separate commands defining fig and ax then adding customisation
-    ax = df.plot(title='Sample Plot', xlabel='X-axis Label', ylabel='Y-axis Label')
-
+    ax= df.plot(title='Sample Plot', xlabel='X-axis Label', ylabel='Y-axis Label')
+    
+    df.plot(legend=False);
     # Show the plot
     plt.show()
+    
